@@ -1,6 +1,6 @@
 # MemeCoin Genie
 
-![MemeCoin Genie Banner](img/memecoin-genie-banner-image.png)
+![MemeCoin Genie Banner](./img/memecoin-genie-banner-image.png)
 
 **MemeCoin Genie** is an AI-powered platform that empowers users to create, analyze, and trade meme coins seamlessly on the Solana blockchain. Combining the magic of AI with Solana's high-speed and low-cost infrastructure, this app is your gateway to the world of meme coin innovation.
 
